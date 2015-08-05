@@ -5,3 +5,4 @@ I will add in this repository my solutions of the Nodeschool
 ## Summary
 * [Javascripting](https://github.com/JuanCrg90/Nodeschool-Solutions/tree/master/javascripting)
 * [Learnyounode](https://github.com/JuanCrg90/Nodeschool-Solutions/tree/master/learnyounode)
+* [Scope Chains & Clousures](https://github.com/JuanCrg90/Nodeschool-Solutions/tree/master/scope-chains-closures)
